@@ -1,4 +1,4 @@
-package andrusca-vitali;
+package andrusca.vitali;
 
 import junit.framework.Test;
 import junit.framework.TestCase;

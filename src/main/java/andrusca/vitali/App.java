@@ -1,4 +1,4 @@
-package andrusca-vitali;
+package andrusca.vitali;
 
 /**
  * Hello world!
